@@ -158,8 +158,8 @@ header,
 
 footer,
 .site-footer {
-    background: #6b7280 !important;
-    color: #fff !important;
+    background: #e5e7eb !important;
+    color: #374151 !important;
     margin-top: 40px;
     padding: 35px 15px 15px !important;
     width: 100%;
@@ -174,8 +174,8 @@ footer,
 }
 
 .footer-section h3 {
-    color: #fff !important;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.3) !important;
+    color: #374151 !important;
+    border-bottom: 2px solid rgba(55, 65, 81, 0.25) !important;
     padding-bottom: 6px;
 }
 
@@ -191,7 +191,7 @@ footer,
 .footer-section a,
 .footer-section p,
 .footer-section strong {
-    color: #fff !important;
+    color: #374151 !important;
 }
 
 .footer-section a {
@@ -205,8 +205,8 @@ footer,
 .footer-bottom {
     max-width: 1200px;
     margin: 0 auto;
-    color: #fff !important;
-    border-top: 1px solid rgba(255, 255, 255, 0.3) !important;
+    color: #374151 !important;
+    border-top: 1px solid rgba(55, 65, 81, 0.25) !important;
     padding-top: 12px;
     text-align: center;
 }
